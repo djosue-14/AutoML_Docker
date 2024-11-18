@@ -1,6 +1,6 @@
 # AutoML_Docker
 
-Este es un proyecto para la gestión de experimentación y modelos automatizados con Docker, con aplicaciones en FastAPI y Batch Processing.
+Este es un proyecto para la gestión de experimentación y modelos automatizados con Docker, con aplicaciones en FastAPI y Batch.
 
 ## Link del repositorio
 [Repositorio en Github](https://github.com/djosue-14/AutoML_Docker.git)
